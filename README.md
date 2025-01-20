@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrea Procopio
-- 📚 I study Computer Science and Economics at Bocconi University
-- 🤖 I'm currently collaborating in a research project about parkinson with the Polytechnique University of Marche (UNIVPM)
+- 📚 I'm a 2nd year bachelor students in Computer Science and Economics at Bocconi University
+- 🤖 I'm currently collaborating in a research project with the Polytechnic University of Marche (UNIVPM) about tinyML for movement detection in patients with Parkinson
 - 📫 you can contact me on LinkedIn or via mail
 
 <!---
