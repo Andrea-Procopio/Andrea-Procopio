@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Andrea Procopio! More about me:
-- 📚 3rd year BSc student in Computer Science and Economics at Bocconi University
-- 🤖 President of the Bocconi AI & Neuroscience lab
-- 🔬 Research Fellow in AI & Cognitive Sciences at Harvard University
+- 👋 Hi, I’m Andrea Procopio! 
+- 📚 Incoming graduate student @MIT, Research Fellow in AI @Harvard
+- 🤖 Ex president of the Bocconi AI & Neuroscience lab (did lot of cool stuff!)
 
 <!---
 Andrea-Procopio/Andrea-Procopio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
