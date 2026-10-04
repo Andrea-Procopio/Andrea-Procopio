@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Andrea Procopio! 
-- 📚 Incoming graduate student @MIT, Research Fellow in AI @Harvard
-- 🤖 Ex president of the Bocconi AI & Neuroscience lab (did lot of cool stuff!)
+PhD @MIT, Research Fellow in AI @Harvard
+Co-founder of Board of AI & Neuroscience Associations
 
 <!---
 Andrea-Procopio/Andrea-Procopio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
