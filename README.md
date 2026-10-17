@@ -1,5 +1,5 @@
-PhD @MIT, Research Fellow in AI @Harvard
-Co-founder of Board of AI & Neuroscience Associations
+PhD @MIT, Fellow @Harvard
+Co-founder of BAINSA
 
 <!---
 Andrea-Procopio/Andrea-Procopio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
